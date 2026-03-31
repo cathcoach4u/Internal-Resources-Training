@@ -117,25 +117,17 @@
 
 ### Exercise 1 — Grounding and Presence
 
-*Notes and reflections:*
-
 ### Exercise 2 — Fight Observation Exercise
-
-*Notes and reflections:*
 
 ### Exercise 3 — Spot the Relationship Killer
 
-*Notes and reflections:*
-
 ### Exercise 4 — Is This What Happens at Home?
-
-*Notes and reflections:*
 
 ---
 
 ## Homework — Session 1
 
-- [ ] *Add homework tasks here*
+- [ ] 
 
 ---
 
@@ -149,5 +141,3 @@
 ---
 
 ## Files & Attachments
-
-*Upload any session files to `docs/assets/files/` and link them here.*

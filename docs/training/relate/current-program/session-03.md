@@ -11,7 +11,6 @@
 
 ## Module 3
 
-*Add module video sections as they are completed.*
 
 ---
 
@@ -19,29 +18,24 @@
 
 ### Exercise 1 — Establishes Presence Through Structured Mirroring
 
-*Notes and reflections:*
 
 ### Exercise 2 — Tracking Internal Shift into the Partner's World
 
-*Notes and reflections:*
 
 ### Exercise 3 — Puts Clients in the Driver's Seat for Mirroring
 
-*Notes and reflections:*
 
 ### Exercise 4 — Empathy & Feelings Wheel
 
-*Notes and reflections:*
 
 ### Exercise 5 — Spotting the Feeling: Rapid-Fire Empathy Practice
 
-*Notes and reflections:*
 
 ---
 
 ## Homework
 
-- [ ] *Add homework tasks here*
+- [ ] 
 
 ---
 
@@ -54,4 +48,3 @@
 
 ## Files & Attachments
 
-*Upload any session files to `docs/assets/files/` and link them here.*

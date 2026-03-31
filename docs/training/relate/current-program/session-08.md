@@ -11,28 +11,24 @@
 
 ## Module 8
 
-*Add module video sections as they are completed.*
 
 ---
 
 ## Exercises
 
-*Add exercises after the session.*
 
 ---
 
 ## Homework
 
-- [ ] *Add homework tasks here*
+- [ ] 
 
 ---
 
 ## Reference Library Links
 
-*Add relevant references after the session.*
 
 ---
 
 ## Files & Attachments
 
-*Upload any session files to `docs/assets/files/` and link them here.*

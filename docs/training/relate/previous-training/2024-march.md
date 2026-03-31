@@ -6,26 +6,22 @@
 |---|---|
 | **Date** | March 2024 |
 | **Format** | Online |
-| **How Found** | Via PESI |
+| **Provider** | Via PESI |
 | **Status** | Completed |
 
 ---
 
-## SharePoint
+## Files
 
-[Training Files on SharePoint](https://netorgft4053847.sharepoint.com/:f:/s/Clients-Resources/IgCMtSOU0TOYQrfRyt_FXb3rAfmUCDXRdmnaOD5x0rhuUDE?e=ECP33Y)
+<a href="https://netorgft4053847.sharepoint.com/:f:/s/Clients-Resources/IgCMtSOU0TOYQrfRyt_FXb3rAfmUCDXRdmnaOD5x0rhuUDE?e=ECP33Y" target="_blank">Training Files on SharePoint</a>
 
 ---
 
 ## What This Training Covered
 
-*Add notes on content, key learnings, and anything you took into practice.*
-
 ---
 
 ## Key Takeaways
-
--
 
 ---
 

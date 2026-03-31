@@ -12,9 +12,7 @@
 
 ## Certificates
 
-Upload certificates to `docs/assets/files/certificates/` and link them below.
-
 | Date | Certificate | Description |
 |------|-------------|-------------|
-| — | — | Diploma of Counselling |
-| — | — | Certified Police Check |
+| | | Diploma of Counselling |
+| | | Certified Police Check |

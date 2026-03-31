@@ -10,21 +10,17 @@
 
 ---
 
-## SharePoint
+## Files
 
-[Training Files on SharePoint](https://netorgft4053847.sharepoint.com/:f:/s/Clients-Resources/IgAJ0ILW9MJKQ4Z5I7-B7c9EAVO6GZ52mZDO-l895xnVBTg?e=Lz5TXQ)
+<a href="https://netorgft4053847.sharepoint.com/:f:/s/Clients-Resources/IgAJ0ILW9MJKQ4Z5I7-B7c9EAVO6GZ52mZDO-l895xnVBTg?e=Lz5TXQ" target="_blank">Training Files on SharePoint</a>
 
 ---
 
 ## What This Training Covered
 
-*Add notes on content, key learnings, and anything you took into practice.*
-
 ---
 
 ## Key Takeaways
-
--
 
 ---
 

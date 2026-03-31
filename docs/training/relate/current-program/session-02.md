@@ -79,21 +79,18 @@
 
 ### Exercise 2 — Rapid Spotting of the Dynamic
 
-*Notes and reflections:*
 
 ### Exercise 3 — Coaching the Avoider
 
-*Notes and reflections:*
 
 ### Exercise 4 — Softening the Pursuer
 
-*Notes and reflections:*
 
 ---
 
 ## Homework
 
-- [ ] *Add homework tasks here*
+- [ ] 
 
 ---
 
@@ -107,4 +104,3 @@
 
 ## Files & Attachments
 
-*Upload any session files to `docs/assets/files/` and link them here.*

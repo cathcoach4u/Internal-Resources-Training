@@ -10,25 +10,15 @@
 
 ---
 
-## Course Information
-
-*Add details about the ADHD coaching course — dates, format, modules covered.*
-
----
-
 ## Certificates
-
-Upload certificates to `docs/assets/files/certificates/` and link them below.
 
 | Date | Certificate | Description |
 |------|-------------|-------------|
-| — | — | *Add certificate links here* |
+| | | |
 
 ---
 
 ## Key Learnings
-
--
 
 ---
 
