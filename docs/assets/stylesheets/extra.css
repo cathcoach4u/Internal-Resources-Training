@@ -1,10 +1,48 @@
-/* Coach4U custom styles */
+/* Coach4U Design System — matched to Baker Hub */
 
 :root {
-  --md-primary-fg-color: #009688;
+  /* Primary colours */
+  --md-primary-fg-color: #0d9488;
+  --md-primary-fg-color--light: #14b8a6;
+  --md-primary-fg-color--dark: #0f766e;
+  --md-accent-fg-color: #3b82f6;
+
+  /* Typography */
+  --md-text-font: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --md-code-font: 'Segoe UI Mono', monospace;
+
+  /* Text colours */
+  --md-typeset-color: #1e293b;
+  --md-default-fg-color: #1e293b;
+  --md-default-fg-color--light: #64748b;
+  --md-default-fg-color--lighter: #94a3b8;
+
+  /* Background */
+  --md-default-bg-color: #f8fafc;
+  --md-default-bg-color--light: #ffffff;
 }
 
-/* Force 3 cards in a single row on the home page */
+/* Dark mode overrides */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #1e293b;
+  --md-default-bg-color--light: #334155;
+  --md-typeset-color: #f1f5f9;
+}
+
+/* Cards — match Baker Hub style */
+.md-typeset .grid.cards > ul > li {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 16px;
+  transition: box-shadow 0.2s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Force 3 cards in a row on desktop */
 .md-typeset .grid.cards > ul {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -15,4 +53,96 @@
   .md-typeset .grid.cards > ul {
     grid-template-columns: 1fr;
   }
+}
+
+/* Tables — match Baker Hub */
+.md-typeset table:not([class]) {
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background: #f1f5f9;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: #64748b;
+  padding: 10px 16px;
+}
+
+.md-typeset table:not([class]) td {
+  font-size: 12px;
+  padding: 10px 16px;
+  border-top: 1px solid #e2e8f0;
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: #f8fafc;
+}
+
+/* Navigation tabs — teal background */
+.md-tabs {
+  background: #0d9488;
+}
+
+/* Header */
+.md-header {
+  background: #0d9488;
+}
+
+/* Buttons */
+.md-typeset .md-button {
+  background: #0d9488;
+  color: white;
+  border-radius: 7px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.md-typeset .md-button:hover {
+  background: #0f766e;
+}
+
+/* Admonitions — teal success */
+.md-typeset .admonition.success,
+.md-typeset details.success {
+  border-color: #0d9488;
+}
+
+/* Content area */
+.md-content {
+  background: #f8fafc;
+}
+
+.md-main__inner {
+  background: #f8fafc;
+}
+
+/* Sidebar */
+.md-sidebar {
+  background: #f8fafc;
+}
+
+/* Search */
+.md-search__input {
+  border-radius: 7px;
+}
+
+/* Headings */
+.md-typeset h1 {
+  color: #1e293b;
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  color: #1e293b;
+  font-weight: 700;
+}
+
+.md-typeset h3 {
+  color: #64748b;
+  font-weight: 700;
+  font-size: 14px;
 }
