@@ -7,20 +7,13 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-github: **Built With**
+-   :material-github: **Hosted On**
 
     ---
 
     - **GitHub** — Code hosting and version control
     - **GitHub Pages** — Free static site hosting
     - **GitHub Actions** — Automated build and deploy
-
--   :material-robot: **AI Assisted**
-
-    ---
-
-    - **Claude AI** — Built and maintained with Claude Code
-    - Content structured from Notion workspace
 
 -   :material-tools: **Stack**
 
@@ -29,6 +22,14 @@ hide:
     - **MkDocs Material** — Static site generator
     - **Markdown** — Content format
     - **Python** — Build toolchain
+
+-   :material-cellphone-arrow-down: **Mobile**
+
+    ---
+
+    - **PWA** — Add to phone home screen
+    - Dark / light mode toggle
+    - Responsive design
 
 </div>
 
@@ -42,7 +43,7 @@ hide:
 - Supervision tracking for Marissa Clohesy and Relate
 - Full-text search across all content
 - Dark/light mode toggle
-- PWA — installable on phone home screen
+- Installable on phone home screen
 - Auto-deploys on every change via GitHub Actions
 
 ---
