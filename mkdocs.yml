@@ -6,19 +6,25 @@ repo_name: cathcoach4u/Internal-Resources-Training
 
 theme:
   name: material
+  custom_dir: overrides
+  favicon: assets/icon-192.svg
+  logo: assets/icon-192.svg
   palette:
     - scheme: default
-      primary: teal
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: teal
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  font:
+    text: Segoe UI
+    code: Segoe UI Mono
   features:
     - navigation.tabs
     - navigation.sections
@@ -103,3 +109,4 @@ nav:
     - supervision/index.md
     - Marissa Clohesy: supervision/marissa-clohesy/index.md
     - Relate: supervision/relate/index.md
+  - About: about.md
