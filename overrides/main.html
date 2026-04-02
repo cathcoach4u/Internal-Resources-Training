@@ -8,4 +8,11 @@
   <meta name="apple-mobile-web-app-title" content="Training">
   <meta name="theme-color" content="#0d9488">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('{{ config.site_url }}sw.js');
+      });
+    }
+  </script>
 {% endblock %}
