@@ -26,19 +26,19 @@ Slower than you think. This audience processes better with space. Honour every [
 Every VISUAL cue describes what should appear on screen at that moment. Use simple, clean slides. Avoid cluttered layouts. Where text appears on screen, it should mirror or reinforce the spoken word, not duplicate it in full. Key terms, stage names, and domain names should appear visually as they are introduced.
 
 **FORMAT**
-Narrated explainer video with slides. Target length 4 minutes 30 seconds.
+Narrated explainer video with slides. Target length 4 minutes 45 seconds.
 
 ---
 
 ## Section 1 — The Hook
 
-**Target: 40 to 50 seconds** | Opens the video with something the audience immediately recognises
+**Target: 60 to 70 seconds** | Opens the video with something the audience immediately recognises. The emotional recognition is more important than speed.
 
 ### SCRIPT
 
-I want to start with something you've probably lived.
+I want to start with something you have probably lived.
 
-You find a system. A planner, an app, a routine. It works for a week or two. And then life happens — a hard day, a busy week, one thing that falls through the cracks — and the whole thing collapses. And somewhere in that collapse, a familiar story starts. That maybe it's just you. That other people manage to follow through and you can't.
+You find a system. A planner, an app, a routine. It works for a week or two. And then life happens — a hard day, a busy week, one thing that falls through the cracks — and the whole thing collapses. And somewhere in that collapse, a familiar story starts. That maybe it is just you. That other people manage to follow through and you cannot. That you have failed again.
 
 [PAUSE]
 
@@ -170,11 +170,11 @@ So here's your question to take away: what small step can support your capacity 
 
 ## Production Notes
 
-- **Target narration time:** 4 minutes 30 seconds
-- **Pacing:** Unhurried, grounded — slower than default. Honour every [PAUSE] with 1.5 to 2 seconds of silence
+- **Target narration time:** 4 minutes 45 seconds
+- **Pacing:** Unhurried, grounded — slower than default. Honour every [PAUSE] with 1.5 to 2 seconds of silence. The hook especially needs to breathe; don't rush through the emotional recognition.
 - **Tone:** Warm coach, not corporate presenter. Cath speaking directly to one person
 - **Voice:** First person, conversational, uses contractions naturally
 - **Music bed:** Soft ambient/acoustic underneath — never competing with voice. Gentle swell at transitions and closing
-- **Key pauses:** After "it is a capacity problem" (Section 1), between each domain (Section 4), before closing question (Section 7)
+- **Key pauses:** After "That you have failed again" (Section 1 — let this land), after "it is a capacity problem", between each domain (Section 4), before closing question (Section 7)
 - **Visuals:** Simple, clean slides. One idea per screen. Text reinforces speech, never duplicates it fully
-- **Word count:** Approximately 680 words of narration (~4:30 at unhurried pace)
+- **Word count:** Approximately 750 words of narration (~4:45 at unhurried pace)
